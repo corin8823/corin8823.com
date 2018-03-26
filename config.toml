@@ -1,8 +1,7 @@
-baseurl = "https://blog.corin8823.com"
+baseurl = "https://corin8823.com"
 languageCode = "ja"
 title = "corin8823 blog"
 theme = "kiss"
-disqusShortname = "corin8823"
 googleAnalytics = ""
 
 # Number of posts per page
@@ -14,10 +13,10 @@ customCSS = ["css/custom.css"]
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "corin8823 blog" # Title for home page
-poweredby = false # Adds powered by Hugo and Kiss below Copyright section
-related = false # Includes related articles
+enableSocial = true
+homeTitle = "corin8823 blog"
+poweredby = false
+related = false
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
