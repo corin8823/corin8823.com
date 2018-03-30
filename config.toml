@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "corin8823 blog"
 theme = "kiss"
 googleAnalytics = ""
+pygmentscodefences = true
 
 # Number of posts per page
 Paginate = 10
