@@ -4,6 +4,7 @@ title = "corin8823 blog"
 theme = "kiss"
 googleAnalytics = ""
 pygmentscodefences = true
+hasCJKLanguage = true
 
 # Number of posts per page
 Paginate = 10
