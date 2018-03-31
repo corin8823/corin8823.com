@@ -2,7 +2,7 @@ baseurl = "https://blog.corin8823.com/"
 languageCode = "ja"
 title = "corin8823 blog"
 theme = "kiss"
-googleAnalytics = ""
+googleAnalytics = "UA-116668850-1"
 pygmentscodefences = true
 hasCJKLanguage = true
 
